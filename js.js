@@ -40,5 +40,5 @@ else if(atzime == 10)
   console.log(atzime+"🖕🏻")
 }
 }
-console.log(task(6));
-console.log("kjhkj");
+console.log(task(10));
+console.log("nekas ipass");
